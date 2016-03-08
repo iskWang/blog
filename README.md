@@ -1,1 +1,1 @@
-http://blog.hi-josh.ocm
+http://blog.hi-josh.com
