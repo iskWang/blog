@@ -34,14 +34,19 @@ permalink: /about/
 	* [台北設計之都](http://me.hi-josh.com/#/5)
 
 ## College
-* [Wenzao Ursuline College of Languages](http://www.wzu.edu.tw) 2009/9 - 2013/6	* BA, Digital Content Application and Management
+* [Wenzao Ursuline College of Languages](http://www.wzu.edu.tw) 2009/9 - 2013/6
+	* BA, Digital Content Application and Management
 	* Information-Management、Multimedia、e-Learning
 * [Hello Josh](http://me.hi-josh.com)
 * [FOOTHER](http://me.hi-josh.com/#/4) 高雄市區揪團行動應用平台
-
 
 ## Community
 * WebConf Taiwan 2013
 * Ruby Tuesday、Taipei.rb
 * [KKTIX profile](https://kktix.com/user/iskwang)
 * [ACCUPASS profile](http://www.accupass.com/user/detail/r/1409281431118660593970/1/0)
+
+## Contact
+* [Facebook](https://facebook.com/bcwang.tw)
+* [Github](https://github.com/iskwang)
+* ![Email](/email.png)
