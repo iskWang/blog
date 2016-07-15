@@ -4,7 +4,7 @@ title: Hello!
 permalink: /about/
 ---
 
-您好，我是 Josh。
+您好，我是 Josh，內向開發者，不是沒有熱忱。
 
 以「使用者經驗」及「快速開發」為目標的網站開發者，具 React fluxify, CoffeeScript 及 Rails, Ruby 開發經驗，曾任 myTreat (北京遠端團隊) 前端工程師及 Ecowork 應用開發工程師。
 
