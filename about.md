@@ -15,15 +15,22 @@ permalink: /about/
 	* [Sample Code](https://gist.github.com/iskWang/b57a525d7187a9fcf97a)
 * Back-End
 	* Ruby & Rails
+	* node.js (learning)
 	* [Sample Code](https://gist.github.com/46c63f7df25c466df4a5)
 * Testing
-	* 	Cucumber、RSpec
+	* Cucumber、RSpec
 * System administration
 	* Linux: ubuntu、CentOS
 	* Vagrant
 	* [Sample Code](https://github.com/iskWang/josh-vagrantfile)
 
 ## Project
+* Dcard 2016/6/8 - 2016/6/24
+	* Onsite interview
+* giftpack 2016/1 - 2016/5
+	* [giftpack](https://giftpack.design/) 
+		* 協助台灣投資者(CV)及成立公司事宜
+		* 初步規劃及前端程式實作
 * myTreat 2015/8 - 2016/1
 	* [Homasy](http://homasy.com) 智慧雲端飯店管理系統
 * Ecowork 2014/7 - 2015/7
