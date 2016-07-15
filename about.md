@@ -29,7 +29,7 @@ permalink: /about/
 	* Onsite interview
 * giftpack 2016/1 - 2016/5
 	* [giftpack](https://giftpack.design/) 
-		* 協助台灣投資者(CV)及成立公司事宜
+		* 協助台灣投資者及成立公司事宜
 		* 初步規劃及前端程式實作
 * myTreat 2015/8 - 2016/1
 	* [Homasy](http://homasy.com) 智慧雲端飯店管理系統
