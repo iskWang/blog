@@ -12,10 +12,11 @@ permalink: /about/
 * Front-End
 	* CoffeeScript、SASS、MVCSS、jQuery
 	* React fluxify
+	* study: vue, webpack
 	* [Sample Code](https://gist.github.com/iskWang/b57a525d7187a9fcf97a)
 * Back-End
 	* Ruby & Rails
-	* node.js (learning)
+	* stydy: node.js
 	* [Sample Code](https://gist.github.com/46c63f7df25c466df4a5)
 * Testing
 	* Cucumber、RSpec
@@ -25,6 +26,8 @@ permalink: /about/
 	* [Sample Code](https://github.com/iskWang/josh-vagrantfile)
 
 ## Project
+* Qblink 2016/8/15 - current
+  * [Qblink](http://qblinks.com/en/)
 * Dcard 2016/6/8 - 2016/6/24
 	* Onsite interview
 * giftpack 2016/1 - 2016/5
