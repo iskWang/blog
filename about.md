@@ -16,7 +16,7 @@ permalink: /about/
 	* [Sample Code](https://gist.github.com/iskWang/b57a525d7187a9fcf97a)
 * Back-End
 	* Ruby & Rails
-	* stydy: node.js
+	* study: node.js
 	* [Sample Code](https://gist.github.com/46c63f7df25c466df4a5)
 * Testing
 	* Cucumber、RSpec
