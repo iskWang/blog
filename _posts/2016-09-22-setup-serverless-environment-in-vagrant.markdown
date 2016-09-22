@@ -29,7 +29,8 @@ export NVM_DIR="$HOME/.nvm"
 1. 發現 `ServerlessError: Signature expired`<br/>
 	產生原因: 系統時區與 AWS 不一致<br/>
 	解決方式: `sudo ntpdate tw.pool.ntp.org`<br/>
-	
+2. 怎麼刪XD?
+  先刪除 S3 -> 再刪 CloudFormation
 
 ##	參考
 [(日文) 透過 vagrant 建立 serverless 服務](http://qiita.com/dtlabo/items/629c35011d031516a5e7)<br/>
