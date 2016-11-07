@@ -26,7 +26,7 @@ permalink: /about/
 	* [Sample Code](https://github.com/iskWang/josh-vagrantfile)
 
 ## Project
-* Qblink 2016/8/15 - current
+* Qblink 2016/8/15 - 2016/10
   * [Qblink](http://qblinks.com/en/)
 * Dcard 2016/6/8 - 2016/6/24
 	* Onsite interview
@@ -36,6 +36,7 @@ permalink: /about/
 		* 初步規劃及前端程式實作
 * myTreat 2015/8 - 2016/1
 	* [Homasy](http://homasy.com) 智慧雲端飯店管理系統
+  * Homasy [負責內容操作畫面](https://youtu.be/edKvZNU_1K0)
 * Ecowork 2014/7 - 2015/7
 	* [ZyXEL Personal Cloud](https://mycloud.zyxel.com)
 * Mr.Travelo 2013/1 - 2013/7
