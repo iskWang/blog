@@ -41,7 +41,7 @@ permalink: /about/
 	* [ZyXEL Personal Cloud](https://mycloud.zyxel.com)
 * Mr.Travelo 2013/1 - 2013/7
 	* Intern
-	* [翰輝羅盤](http://hanhui.com.tw)
+	* [翰輝羅盤](http://me.hi-josh.com/#/6)
 	* [台北設計之都](http://me.hi-josh.com/#/5)
 
 ## College
