@@ -4,9 +4,16 @@ title: Hello!
 permalink: /about/
 ---
 
-您好，我是 Josh，內向開發者，不是沒有熱忱。
+您好，我是 Josh，內向開發者，不是沒有熱忱喔 :)
 
 以「使用者經驗」及「快速開發」為目標的網站開發者，具 React fluxify, CoffeeScript 及 Rails, Ruby 開發經驗，曾任 myTreat (北京遠端團隊) 前端工程師及 Ecowork 應用開發工程師。
+
+目前主攻 WEB 前端及 React Native 行動程式開發。
+
+## Summary
+* 國際網通專案背景，具 IoT 產業及後端服務技術
+* 善於觀察使用行為，貼近實際 UX 與設計師同步討論
+* 跨新創公司服務經驗，可立即融入團隊並勇於嘗試新技術
 
 ## Specialty
 * Front-End
@@ -26,10 +33,12 @@ permalink: /about/
 	* [Sample Code](https://github.com/iskWang/josh-vagrantfile)
 
 ## Project
-* Qblink 2016/8/15 - 2016/10
-  * [Qblink](http://qblinks.com/en/)
-* Dcard 2016/6/8 - 2016/6/24
-	* Onsite interview
+* IoT 影像辨識(未公開) 2016/11 - current
+  * 行動應用程式開發
+* 短期及接案工作 2016/6 - 2016/10
+  * [Dcard](https://dcard.tw)
+  * [Yourator](https://www.yourator.co/)
+  * [Qblinks](http://qblinks.com)
 * giftpack 2016/1 - 2016/5
 	* [giftpack](https://giftpack.design/) 
 		* 協助台灣投資者及成立公司事宜
@@ -61,3 +70,6 @@ permalink: /about/
 * [Facebook](https://facebook.com/bcwang.tw)
 * [Github](https://github.com/iskwang)
 * ![Email](/email.png)
+
+## 附註
+若透過外部方式取得本人其他隱私資料(如電話, 住家地址)，在未經同意下暴露給第三方或是團隊成員，在確認查證後會提起追訴，謝謝
