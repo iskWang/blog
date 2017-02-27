@@ -65,6 +65,7 @@ permalink: /about/
 * Ruby Tuesday、Taipei.rb
 * [KKTIX profile](https://kktix.com/user/iskwang)
 * [ACCUPASS profile](http://www.accupass.com/user/detail/r/1409281431118660593970/1/0)
+* [Udemy](https://www.udemy.com/user/josh-wang-4/)
 
 ## Contact
 * [Facebook](https://facebook.com/bcwang.tw)
@@ -72,4 +73,4 @@ permalink: /about/
 * ![Email](/email.png)
 
 ## 附註
-若透過外部方式取得本人其他隱私資料(如電話, 住家地址)，在未經同意下暴露給第三方或是團隊成員，在確認查證後會提起追訴，謝謝
+了解人資作業所需，若透過外部方式取得本人其他隱私資料(如電話, 住家地址)，請勿透露予第三者或團隊成員。
