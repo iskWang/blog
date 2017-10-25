@@ -6,9 +6,9 @@ permalink: /about/
 
 您好，我是 Josh，內向開發者，不是沒有熱忱喔 :)
 
-以「使用者經驗」及「快速開發」為目標的網站開發者，具 React fluxify, CoffeeScript 及 Rails, Ruby 開發經驗，曾任 myTreat (北京遠端團隊) 前端工程師及 Ecowork 應用開發工程師。
+以「使用者經驗」及「快速開發」為目標的網站開發者，具 React, React Native 及 Rails, Ruby 開發經驗，曾任 myTreat (北京遠端團隊) 前端工程師及 Ecowork 應用開發工程師。
 
-目前主攻 WEB 前端及 React Native 行動程式開發。
+目前主攻前端領域以及 Rails 後端開發
 
 ## Summary
 * 國際網通專案背景，具 IoT 產業及後端服務技術
@@ -17,16 +17,15 @@ permalink: /about/
 
 ## Specialty
 * Front-End
-	* CoffeeScript、SASS、MVCSS、jQuery
-	* React fluxify
-	* study: vue, webpack
+	* APP: React Native, Saga, Redux, ES6
+	* WEB: React, CoffeeScript, SASS, Gulp, jQuery
+  * Tool: Zeplin, Illustrator, Photoshop
+	* Study: Webpack
 	* [Sample Code](https://gist.github.com/iskWang/b57a525d7187a9fcf97a)
 * Back-End
 	* Ruby & Rails
-	* study: node.js
+	* Study: node.js
 	* [Sample Code](https://gist.github.com/46c63f7df25c466df4a5)
-* Testing
-	* Cucumber、RSpec
 * System administration
 	* Linux: ubuntu、CentOS
 	* Vagrant
@@ -35,20 +34,15 @@ permalink: /about/
 ## Project
 * IoT 影像辨識(未公開) 2016/11 - current
   * 行動應用程式開發
-* 短期及接案工作 2016/6 - 2016/10
-  * [Dcard](https://dcard.tw)
-  * [Yourator](https://www.yourator.co/)
-  * [Qblinks](http://qblinks.com)
-* giftpack 2016/1 - 2016/5
+* giftpack/ myTreat(新創團隊) 2015/8 - 2016/1
+	* [Homasy](http://homasy.com) 智慧雲端飯店管理系統
+    * Homasy [負責內容操作畫面](https://youtu.be/edKvZNU_1K0)
 	* [giftpack](https://giftpack.design/) 
 		* 協助台灣投資者及成立公司事宜
 		* 初步規劃及前端程式實作
-* myTreat 2015/8 - 2016/1
-	* [Homasy](http://homasy.com) 智慧雲端飯店管理系統
-  * Homasy [負責內容操作畫面](https://youtu.be/edKvZNU_1K0)
 * Ecowork 2014/7 - 2015/7
 	* [ZyXEL Personal Cloud](https://mycloud.zyxel.com)
-* Mr.Travelo 2013/1 - 2013/7
+* Mr.Travelo(新創團隊) 2013/1 - 2013/7
 	* Intern
 	* [翰輝羅盤](http://me.hi-josh.com/#/6)
 	* [台北設計之都](http://me.hi-josh.com/#/5)
