@@ -18,11 +18,9 @@ permalink: /about/
 	* APP: React Native, Saga, Redux, ES6
 	* WEB: React, CoffeeScript, SASS, Gulp, jQuery, GraphQL, Apollo
 	* Tool: Zeplin, Illustrator, Photoshop
-	* [Sample Code](https://gist.github.com/iskWang/b57a525d7187a9fcf97a)
 * Back-End
 	* Ruby & Rails
 	* Study: node.js
-	* [Sample Code](https://gist.github.com/46c63f7df25c466df4a5)
 * System administration
 	* Linux: ubuntu、CentOS
 	* Vagrant
