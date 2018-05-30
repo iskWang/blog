@@ -4,11 +4,9 @@ title: Hello!
 permalink: /about/
 ---
 
-您好，我是 Josh，內向開發者，不是沒有熱忱喔 :)
-
 以「使用者經驗」及「快速開發」為目標的網站開發者，具 React, React Native 及 Rails, Ruby 開發經驗，曾任 myTreat (北京遠端團隊) 前端工程師及 Ecowork 應用開發工程師。
 
-目前主攻前端領域以及 Rails 後端開發
+目前主攻前端領域開發
 
 ## Summary
 * 國際網通專案背景，具 IoT 產業及後端服務技術
@@ -18,7 +16,7 @@ permalink: /about/
 ## Specialty
 * Front-End
 	* APP: React Native, Saga, Redux, ES6
-	* WEB: React, CoffeeScript, SASS, Gulp, jQuery
+	* WEB: React, CoffeeScript, SASS, Gulp, jQuery, GraphQL, Apollo
 	* Tool: Zeplin, Illustrator, Photoshop
 	* [Sample Code](https://gist.github.com/iskWang/b57a525d7187a9fcf97a)
 * Back-End
@@ -31,8 +29,13 @@ permalink: /about/
 	* [Sample Code](https://github.com/iskWang/josh-vagrantfile)
 
 ## Project
-* IoT 影像辨識(未公開) 2016/11 - current
-  * 行動應用程式開發
+* 蹦點科技(滿房寶民宿管理系統) 2017-12 - Current
+  * 既有前端需求維護優化
+  * 協助轉移前端新架構
+  * 外部廠商 React Native 實作顧問
+* CatFi 2016/11 - 2017/11
+  * React Native 行動應用程式及前端開發
+  * 整合第三方服務
 * giftpack/ myTreat(新創團隊) 2015/8 - 2016/1
   * 前端程式實作(React.js, fluxify)
   * giftpack 公司成立事宜及在台投資者聯繫
