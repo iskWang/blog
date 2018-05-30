@@ -43,15 +43,15 @@ permalink: /about/
 	* [ZyXEL Personal Cloud](https://mycloud.zyxel.com)
 * Mr.Travelo(新創團隊) 2013/1 - 2013/7
 	* Intern
-	* [翰輝羅盤](http://me.hi-josh.com/#/6)
-	* [台北設計之都](http://me.hi-josh.com/#/5)
+	* [翰輝羅盤](http://me.josh.com.tw/#/6)
+	* [台北設計之都](http://me.josh.com.tw/#/5)
 
 ## College
 * [Wenzao Ursuline College of Languages](http://www.wzu.edu.tw) 2009/9 - 2013/6
 	* BA, Digital Content Application and Management
 	* Information-Management、Multimedia、e-Learning
-* [Hello Josh](http://me.hi-josh.com)
-* [FOOTHER](http://me.hi-josh.com/#/4) 高雄市區揪團行動應用平台
+* [Hello Josh](http://me.josh.com.tw)
+* [FOOTHER](http://me.josh.com.tw/#/4) 高雄市區揪團行動應用平台
 
 ## Community
 * WebConf Taiwan 2013
